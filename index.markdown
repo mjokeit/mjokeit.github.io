@@ -19,18 +19,6 @@ My research focuses on the intersection of biomechanics, statistical modelling, 
 - Publication 2
 - Publication 3
 
-## Contact
-
-If you would like to get in touch, please fill out the form below:
-
-Name:
-
-Email:
-
-Message:
-
-[Submit]
-
 ---
 
-&copy; 2023 Biomedical Research
+&copy; 2024 mjokeit.github.io
