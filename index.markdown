@@ -83,7 +83,7 @@
 ## Presentations & Posters
 
 - **Presentation & Poster** [7, 2]  
-  84. swiss orthopaedics, Lausanne, Switzerland (06/2024)  
+  swiss orthopaedics, Lausanne, Switzerland (06/2024)  
 
 - **Presentation** [5]  
   Spine Loading & Deformation, Berlin, Germany (07/2023)  
